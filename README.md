@@ -4,7 +4,7 @@
 # K_D3n1z
 13 y. o. programmer.
 <br><br>
-## Links:
+### Links:
 • [YouTube](https://www.youtube.com/channel/UCh76y2A6qXFUUTF69xMluPg)<br>
 • [Steam](https://steamcommunity.com/id/k_d3n1z/)
 ### Languages/libraries i know:
