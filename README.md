@@ -1,6 +1,8 @@
 ![fav-lang](https://img.shields.io/badge/favourite%20language-C%23-blueviolet)
+![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
+
 # K_D3n1z
-13 y. o. ukrainian programmer.
+13 y. o. programmer.
 ### Languages/libraries i know:
 • <code>C#</code><br>
 • <code>PHP</code><br>
