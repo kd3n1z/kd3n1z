@@ -11,7 +11,7 @@
 • <code>Arduino</code><br>
 • <code>Discord.js</code><br>
 • <code>JavaScript</code><br>
-• <code>Russian, ukrainian, english.</code><br>
+• <code>Also Russian, Ukrainian, English.</code><br>
 <br><br>
 ### Links:
 • [YouTube](https://www.youtube.com/channel/UCh76y2A6qXFUUTF69xMluPg)
