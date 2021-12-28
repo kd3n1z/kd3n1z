@@ -2,7 +2,7 @@
 ![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
 
 # K_D3n1z
-13 y. o. programmer.
+there must be something here?
 <br><br>
 ### Links:
 • [Steam](https://steamcommunity.com/id/k_d3n1z/)<br>
