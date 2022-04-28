@@ -6,6 +6,6 @@
 
 # K_D3n1z
 game, software & backend developer
-https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z">
 <br><br>
 • [kd3n1z.com](http://kd3n1z.com)<br>
