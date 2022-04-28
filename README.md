@@ -4,5 +4,5 @@
 # K_D3n1z
 game, software & backend developer<br>
 [kd3n1z.com](http://kd3n1z.com)<br><br>
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact)
 <br><br>
