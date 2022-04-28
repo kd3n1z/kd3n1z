@@ -1,8 +1,5 @@
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="c#" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="nodejs & js" width="30" height="30"/>
-</div>
+![fav-lang](https://img.shields.io/badge/favourite%20language-C%23-blueviolet)
+![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
 
 # K_D3n1z
 game, software & backend developer<br><br>
