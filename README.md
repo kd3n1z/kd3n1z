@@ -2,6 +2,6 @@
 ![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
 
 # K_D3n1z
-game developer & software developer
+game & software developer
 <br><br>
 • [kd3n1z.com](http://kd3n1z.com)<br>
