@@ -3,10 +3,12 @@
 
 # K_D3n1z
 
-<div>
-  <div>
+<table><tr>
+  <td>
     game, software & backend developer<br>
     [kd3n1z.com](http://kd3n1z.com)
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
-</div>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
+  </td>
+  </tr></table>
