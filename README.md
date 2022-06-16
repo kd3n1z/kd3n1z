@@ -3,7 +3,7 @@
 
 # K_D3n1z
 
-<table width=100%>
+<table>
   <tr>
     <td align=center width=50%>
       game, software & backend developer<br>
