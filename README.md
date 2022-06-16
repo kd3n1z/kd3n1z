@@ -7,4 +7,8 @@ game, software & backend developer<br>
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact)
 
+<div>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
+
+</div>
