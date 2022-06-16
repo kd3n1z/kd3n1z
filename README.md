@@ -5,11 +5,11 @@
 
 <table>
   <tr>
-    <td align=center>
+    <td align=center width=50%>
       game, software & backend developer<br>
       <a href="http://kd3n1z.com">kd3n1z.com</a>
     </td>
-    <td>
+    <td width=50% align=center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
     </td>
   </tr>
