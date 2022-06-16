@@ -3,12 +3,19 @@
 
 # K_D3n1z
 
-<table><tr>
-  <td align=center>
-    game, software & backend developer<br>
-    <a href="http://kd3n1z.com">kd3n1z.com</a>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
-  </td>
-  </tr></table>
+<table>
+  <tr>
+    <td align=center>
+      game, software & backend developer<br>
+      <a href="http://kd3n1z.com">kd3n1z.com</a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      langs
+    </td>
+  </tr>
+</table>
