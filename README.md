@@ -6,7 +6,7 @@
 <table><tr>
   <td>
     game, software & backend developer<br>
-    [kd3n1z.com](http://kd3n1z.com)
+    <a href="http://kd3n1z.com">kd3n1z.com</a>
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact">
