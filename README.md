@@ -1,6 +1,12 @@
 ![fav-lang](https://img.shields.io/badge/favourite%20language-C%23-blueviolet)
 ![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # K_D3n1z
 
 <table><tr>
