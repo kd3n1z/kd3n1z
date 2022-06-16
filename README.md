@@ -7,3 +7,4 @@ game, software & backend developer<br>
 
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=KD3n1z&show_icons=true)
