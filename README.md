@@ -14,7 +14,7 @@
     </td>
   </tr>
   <tr>
-    <td align=center>
+    <td align=center colspan=2>
       langs
     </td>
   </tr>
