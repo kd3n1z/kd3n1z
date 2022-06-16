@@ -3,8 +3,6 @@
 
 # K_D3n1z
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact)
-
 <div>
   <div>
     game, software & backend developer<br>
