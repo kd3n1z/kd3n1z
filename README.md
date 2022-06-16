@@ -20,7 +20,7 @@
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
     </td>
   </tr>
 </table>
