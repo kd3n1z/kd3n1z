@@ -22,6 +22,8 @@
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
     </td>
   </tr>
 </table>
