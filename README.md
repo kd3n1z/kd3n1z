@@ -4,7 +4,7 @@
 # K_D3n1z
 
 <table><tr>
-  <td>
+  <td align=center>
     game, software & backend developer<br>
     <a href="http://kd3n1z.com">kd3n1z.com</a>
   </td>
