@@ -24,7 +24,7 @@
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+      <img width=30 src="https://www.svgrepo.com/show/331626/unity.svg">
     </td>
   </tr>
 </table>
-
