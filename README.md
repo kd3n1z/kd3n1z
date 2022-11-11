@@ -16,14 +16,8 @@
   <tr>
     <td align=center colspan=2>
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">)
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">)
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">)
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">)
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">)
-      [//]: <> (<img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">)
       <img width=30 src="https://www.svgrepo.com/show/331626/unity.svg">
     </td>
   </tr>
