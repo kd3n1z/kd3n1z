@@ -18,7 +18,7 @@
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img width=30 src="https://www.svgrepo.com/show/331626/unity.svg">
+      <img width=30 src="https://raw.githubusercontent.com/evicons/devicon/icons/linux/linux-original.svg">
     </td>
   </tr>
 </table>
