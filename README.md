@@ -16,7 +16,7 @@
   <tr>
     <td align=center colspan=2>
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img width=30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img width=30 src="https://www.svgrepo.com/show/331626/unity.svg">
     </td>
