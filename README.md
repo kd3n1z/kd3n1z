@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align=center width=50%>
-      game, software & backend developer<br>
+      game, software & fullstack developer<br>
       <a href="http://kd3n1z.com">kd3n1z.com</a>
     </td>
     <td width=50% align=center>
