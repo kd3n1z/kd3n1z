@@ -2,7 +2,7 @@
 ![nationality](https://img.shields.io/badge/nationality-ukrainian-yellow)
 [![wakatime](https://wakatime.com/badge/user/ee436eb4-70f4-4ceb-bc6f-dee2f70d7b48.svg)](https://wakatime.com/@ee436eb4-70f4-4ceb-bc6f-dee2f70d7b48)
 
-# K_D3n1z
+# KD3n1z
 
 <table>
   <tr>
