@@ -16,10 +16,9 @@
   </tr>
   <tr>
     <td align=center colspan=2>
+      <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
       <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     </td>
   </tr>
 </table>
