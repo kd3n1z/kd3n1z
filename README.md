@@ -11,7 +11,7 @@
       <a href="http://kd3n1z.com">kd3n1z.com</a>
     </td>
     <td width=50% align=center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact&hide=css,html,makefile,shell,dockerfile">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD3n1z&layout=compact&hide=scss,sass,css,html,makefile,shell,dockerfile">
     </td>
   </tr>
   <tr>
