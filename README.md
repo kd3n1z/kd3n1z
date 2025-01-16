@@ -19,6 +19,7 @@
       <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img height=50 src="https://raw.githubusercontent.com/kd3n1z/kd3n1z/main/icons/U_ProfileIcon_Negative.svg">
       <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
     </td>
   </tr>
 </table>
